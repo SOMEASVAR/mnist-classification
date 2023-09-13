@@ -121,8 +121,9 @@ print(x_single_prediction)
 
 ## Output:
 
-### Training Loss, Validation Loss Vs Iteration Plot:
+### Accuracy, Validation Accuracy Vs Iteration:
 ![image](https://github.com/SOMEASVAR/mnist-classification/assets/93434149/54911c63-d27b-4835-b465-ac5ee5b1784c)
+### Training Loss, Validation Loss Vs Iteration:
 ![image](https://github.com/SOMEASVAR/mnist-classification/assets/93434149/b62a79ea-19fc-44f7-ae37-019809ac0dee)
 
 
